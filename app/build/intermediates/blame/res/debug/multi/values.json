@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\User\\Desktop\\Bitirme\\android-eye-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Desktop\\Bitirme\\android-eye-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 65,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Desktop\\Bitirme\\android-eye-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 65,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 71,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Desktop\\Bitirme\\android-eye-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 71,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 68,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Desktop\\Bitirme\\android-eye-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 68,
+                        "endOffset": 234
+                    }
+                }
+            }
+        ]
+    }
+]
